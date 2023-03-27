@@ -1,0 +1,9 @@
+{
+    "name": "disco-science-irl",
+    "version": "0.1.0",
+    "title": "Disco Science IRL",
+    "author": "Noah Green",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "This mod makes the colors of consumed science available outside of the game."
+}
