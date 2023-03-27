@@ -4,9 +4,7 @@ Disco Science IRL pulls the active research ingredients from a Factorio
 game and lights up an LED lamp with their colors. This repository contains
 all of the material used in the project (source code and 3D models).
 
-## How it works
-
-TODO: Blog post
+For a more detailed writeup and video, [read about this project on my website](https://noahc.green/projects/disco_science_irl/).
 
 The rest of this README describes how to get the project up and running.
 
